@@ -1,0 +1,19 @@
+{
+  "name": "rocketpool-polygon-oracle",
+  "version": "1.0.0",
+  "description": "Rocket Pool Polygon RPL price oracle",
+  "main": "deploy.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kane Wallmann (Rocket Pool)",
+  "license": "GPLv3",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2"
+  }
+}
