@@ -20,7 +20,7 @@ retrieve the timestamp that the rate was last updated.
 Rocket Pool maintains a Goerli testnet instance of the protocol alongside our mainnet deployment which can be used for 
 integration testing before promotion to mainnet.
 
-| Chain | RocketOvmPriceMessenger (EVM) | RocketOvmPriceOracle (Polygon) | RocketBalancerRateProvider (Polygon) |
+| Chain | RocketPolygonPriceMessenger (EVM) | RocketPolygonPriceOracle (Polygon) | RocketBalancerRateProvider (Polygon) |
 | -- | -- | -- | -- |
 | Mainnet | [0xb1029Ac2Be4e08516697093e2AFeC435057f3511](https://etherscan.io/address/0xb1029Ac2Be4e08516697093e2AFeC435057f3511) | [0x594Fb75D3dc2DFa0150Ad03F99F97817747dd4E1](https://polygonscan.com/address/0x594Fb75D3dc2DFa0150Ad03F99F97817747dd4E1) | [0xA73ec45Fe405B5BFCdC0bF4cbc9014Bb32a01cd2](https://polygonscan.com/address/0xa73ec45fe405b5bfcdc0bf4cbc9014bb32a01cd2) |
 | Goerli | [0x6D736da1dC2562DBeA9998385A0A27d8c2B2793e](https://goerli.etherscan.io/address/0x6D736da1dC2562DBeA9998385A0A27d8c2B2793e) | [0xA73ec45Fe405B5BFCdC0bF4cbc9014Bb32a01cd2](https://mumbai.polygonscan.com/address/0xa73ec45fe405b5bfcdc0bf4cbc9014bb32a01cd2) | tba |
